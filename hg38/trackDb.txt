@@ -1,0 +1,8 @@
+track C91PL_chr9_131669662
+shortLabel C91PL_chr9_131669662
+longLabel COSMIQ contacts at chr9:131669662
+type bedpe
+visibility full
+bigDataUrl C91PL_chr9_131669662.bedpe
+
+
