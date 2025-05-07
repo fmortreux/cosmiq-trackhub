@@ -3,7 +3,7 @@ shortLabel ATL2_chr1_124921396
 longLabel COSMIQ contacts at chr1:124921396
 type bedpe
 visibility full
-bigDataUrl ATL2_chr1_124921396.bedpe
+bigDataUrl hg38/ATL2_chr1_124921396.bedpe
 
 
 track ATL2_chr10_100346150
@@ -11,7 +11,7 @@ shortLabel ATL2_chr10_100346150
 longLabel COSMIQ contacts at chr10:100346150
 type bedpe
 visibility full
-bigDataUrl ATL2_chr10_100346150.bedpe
+bigDataUrl hg38/ATL2_chr10_100346150.bedpe
 
 
 track ATL2_chr10_19697454
@@ -19,7 +19,7 @@ shortLabel ATL2_chr10_19697454
 longLabel COSMIQ contacts at chr10:19697454
 type bedpe
 visibility full
-bigDataUrl ATL2_chr10_19697454.bedpe
+bigDataUrl hg38/ATL2_chr10_19697454.bedpe
 
 
 track ATL2_chr11_120299509
@@ -27,7 +27,7 @@ shortLabel ATL2_chr11_120299509
 longLabel COSMIQ contacts at chr11:120299509
 type bedpe
 visibility full
-bigDataUrl ATL2_chr11_120299509.bedpe
+bigDataUrl hg38/ATL2_chr11_120299509.bedpe
 
 
 track ATL2_chr16_6402151
@@ -35,7 +35,7 @@ shortLabel ATL2_chr16_6402151
 longLabel COSMIQ contacts at chr16:6402151
 type bedpe
 visibility full
-bigDataUrl ATL2_chr16_6402151.bedpe
+bigDataUrl hg38/ATL2_chr16_6402151.bedpe
 
 
 track ATL2_chr16_73059100
@@ -43,7 +43,7 @@ shortLabel ATL2_chr16_73059100
 longLabel COSMIQ contacts at chr16:73059100
 type bedpe
 visibility full
-bigDataUrl ATL2_chr16_73059100.bedpe
+bigDataUrl hg38/ATL2_chr16_73059100.bedpe
 
 
 track ATL2_chr19_23516284
@@ -51,7 +51,7 @@ shortLabel ATL2_chr19_23516284
 longLabel COSMIQ contacts at chr19:23516284
 type bedpe
 visibility full
-bigDataUrl ATL2_chr19_23516284.bedpe
+bigDataUrl hg38/ATL2_chr19_23516284.bedpe
 
 
 track ATL2_chr2_143643727
@@ -59,7 +59,7 @@ shortLabel ATL2_chr2_143643727
 longLabel COSMIQ contacts at chr2:143643727
 type bedpe
 visibility full
-bigDataUrl ATL2_chr2_143643727.bedpe
+bigDataUrl hg38/ATL2_chr2_143643727.bedpe
 
 
 track ATL2_chr2_197058271
@@ -67,7 +67,7 @@ shortLabel ATL2_chr2_197058271
 longLabel COSMIQ contacts at chr2:197058271
 type bedpe
 visibility full
-bigDataUrl ATL2_chr2_197058271.bedpe
+bigDataUrl hg38/ATL2_chr2_197058271.bedpe
 
 
 track ATL2_chr22_10727513
@@ -75,7 +75,7 @@ shortLabel ATL2_chr22_10727513
 longLabel COSMIQ contacts at chr22:10727513
 type bedpe
 visibility full
-bigDataUrl ATL2_chr22_10727513.bedpe
+bigDataUrl hg38/ATL2_chr22_10727513.bedpe
 
 
 track ATL2_chr23_7755
@@ -83,7 +83,7 @@ shortLabel ATL2_chr23_7755
 longLabel COSMIQ contacts at chr23:7755
 type bedpe
 visibility full
-bigDataUrl ATL2_chr23_7755.bedpe
+bigDataUrl hg38/ATL2_chr23_7755.bedpe
 
 
 track ATL2_chr3_156668867
@@ -91,7 +91,7 @@ shortLabel ATL2_chr3_156668867
 longLabel COSMIQ contacts at chr3:156668867
 type bedpe
 visibility full
-bigDataUrl ATL2_chr3_156668867.bedpe
+bigDataUrl hg38/ATL2_chr3_156668867.bedpe
 
 
 track ATL2_chr3_60170826
@@ -99,7 +99,7 @@ shortLabel ATL2_chr3_60170826
 longLabel COSMIQ contacts at chr3:60170826
 type bedpe
 visibility full
-bigDataUrl ATL2_chr3_60170826.bedpe
+bigDataUrl hg38/ATL2_chr3_60170826.bedpe
 
 
 track ATL2_chr3_72400158
@@ -107,7 +107,7 @@ shortLabel ATL2_chr3_72400158
 longLabel COSMIQ contacts at chr3:72400158
 type bedpe
 visibility full
-bigDataUrl ATL2_chr3_72400158.bedpe
+bigDataUrl hg38/ATL2_chr3_72400158.bedpe
 
 
 track ATL2_chr6_115871882
@@ -115,7 +115,7 @@ shortLabel ATL2_chr6_115871882
 longLabel COSMIQ contacts at chr6:115871882
 type bedpe
 visibility full
-bigDataUrl ATL2_chr6_115871882.bedpe
+bigDataUrl hg38/ATL2_chr6_115871882.bedpe
 
 
 track ATL2_chr6_1677784
@@ -123,7 +123,7 @@ shortLabel ATL2_chr6_1677784
 longLabel COSMIQ contacts at chr6:1677784
 type bedpe
 visibility full
-bigDataUrl ATL2_chr6_1677784.bedpe
+bigDataUrl hg38/ATL2_chr6_1677784.bedpe
 
 
 track ATL2_chr6_36596223
@@ -131,7 +131,7 @@ shortLabel ATL2_chr6_36596223
 longLabel COSMIQ contacts at chr6:36596223
 type bedpe
 visibility full
-bigDataUrl ATL2_chr6_36596223.bedpe
+bigDataUrl hg38/ATL2_chr6_36596223.bedpe
 
 
 track ATL2_chr7_100571114
@@ -139,7 +139,7 @@ shortLabel ATL2_chr7_100571114
 longLabel COSMIQ contacts at chr7:100571114
 type bedpe
 visibility full
-bigDataUrl ATL2_chr7_100571114.bedpe
+bigDataUrl hg38/ATL2_chr7_100571114.bedpe
 
 
 track ATL2_chr7_110286357
@@ -147,7 +147,7 @@ shortLabel ATL2_chr7_110286357
 longLabel COSMIQ contacts at chr7:110286357
 type bedpe
 visibility full
-bigDataUrl ATL2_chr7_110286357.bedpe
+bigDataUrl hg38/ATL2_chr7_110286357.bedpe
 
 
 track ATL2_chr8_33376775
@@ -155,7 +155,7 @@ shortLabel ATL2_chr8_33376775
 longLabel COSMIQ contacts at chr8:33376775
 type bedpe
 visibility full
-bigDataUrl ATL2_chr8_33376775.bedpe
+bigDataUrl hg38/ATL2_chr8_33376775.bedpe
 
 
 track ATL2_chr9_111102031
@@ -163,7 +163,7 @@ shortLabel ATL2_chr9_111102031
 longLabel COSMIQ contacts at chr9:111102031
 type bedpe
 visibility full
-bigDataUrl ATL2_chr9_111102031.bedpe
+bigDataUrl hg38/ATL2_chr9_111102031.bedpe
 
 
 track ATL2_chr9_84758149
@@ -171,7 +171,7 @@ shortLabel ATL2_chr9_84758149
 longLabel COSMIQ contacts at chr9:84758149
 type bedpe
 visibility full
-bigDataUrl ATL2_chr9_84758149.bedpe
+bigDataUrl hg38/ATL2_chr9_84758149.bedpe
 
 
 track ATL2_chrX_38810094
@@ -179,7 +179,7 @@ shortLabel ATL2_chrX_38810094
 longLabel COSMIQ contacts at chrX:38810094
 type bedpe
 visibility full
-bigDataUrl ATL2_chrX_38810094.bedpe
+bigDataUrl hg38/ATL2_chrX_38810094.bedpe
 
 
 track ATL2_chrX_71119588
@@ -187,7 +187,7 @@ shortLabel ATL2_chrX_71119588
 longLabel COSMIQ contacts at chrX:71119588
 type bedpe
 visibility full
-bigDataUrl ATL2_chrX_71119588.bedpe
+bigDataUrl hg38/ATL2_chrX_71119588.bedpe
 
 
 track C8166_chr1_186586318
@@ -195,7 +195,7 @@ shortLabel C8166_chr1_186586318
 longLabel COSMIQ contacts at chr1:186586318
 type bedpe
 visibility full
-bigDataUrl C8166_chr1_186586318.bedpe
+bigDataUrl hg38/C8166_chr1_186586318.bedpe
 
 
 track C8166_chr12_124455829
@@ -203,7 +203,7 @@ shortLabel C8166_chr12_124455829
 longLabel COSMIQ contacts at chr12:124455829
 type bedpe
 visibility full
-bigDataUrl C8166_chr12_124455829.bedpe
+bigDataUrl hg38/C8166_chr12_124455829.bedpe
 
 
 track C8166_chr16_82567561
@@ -211,7 +211,7 @@ shortLabel C8166_chr16_82567561
 longLabel COSMIQ contacts at chr16:82567561
 type bedpe
 visibility full
-bigDataUrl C8166_chr16_82567561.bedpe
+bigDataUrl hg38/C8166_chr16_82567561.bedpe
 
 
 track C8166_chr2_71358903
@@ -219,7 +219,7 @@ shortLabel C8166_chr2_71358903
 longLabel COSMIQ contacts at chr2:71358903
 type bedpe
 visibility full
-bigDataUrl C8166_chr2_71358903.bedpe
+bigDataUrl hg38/C8166_chr2_71358903.bedpe
 
 
 track C8166_chr3_71461442
@@ -227,7 +227,7 @@ shortLabel C8166_chr3_71461442
 longLabel COSMIQ contacts at chr3:71461442
 type bedpe
 visibility full
-bigDataUrl C8166_chr3_71461442.bedpe
+bigDataUrl hg38/C8166_chr3_71461442.bedpe
 
 
 track C8166_chr6_389477
@@ -235,7 +235,7 @@ shortLabel C8166_chr6_389477
 longLabel COSMIQ contacts at chr6:389477
 type bedpe
 visibility full
-bigDataUrl C8166_chr6_389477.bedpe
+bigDataUrl hg38/C8166_chr6_389477.bedpe
 
 
 track C8166_chr6_390031
@@ -243,7 +243,7 @@ shortLabel C8166_chr6_390031
 longLabel COSMIQ contacts at chr6:390031
 type bedpe
 visibility full
-bigDataUrl C8166_chr6_390031.bedpe
+bigDataUrl hg38/C8166_chr6_390031.bedpe
 
 
 track C8166_chr7_34962522
@@ -251,7 +251,7 @@ shortLabel C8166_chr7_34962522
 longLabel COSMIQ contacts at chr7:34962522
 type bedpe
 visibility full
-bigDataUrl C8166_chr7_34962522.bedpe
+bigDataUrl hg38/C8166_chr7_34962522.bedpe
 
 
 track C8166_chr9_77295064
@@ -259,7 +259,7 @@ shortLabel C8166_chr9_77295064
 longLabel COSMIQ contacts at chr9:77295064
 type bedpe
 visibility full
-bigDataUrl C8166_chr9_77295064.bedpe
+bigDataUrl hg38/C8166_chr9_77295064.bedpe
 
 
 track C91PL_chr1_101028342
@@ -267,7 +267,7 @@ shortLabel C91PL_chr1_101028342
 longLabel COSMIQ contacts at chr1:101028342
 type bedpe
 visibility full
-bigDataUrl C91PL_chr1_101028342.bedpe
+bigDataUrl hg38/C91PL_chr1_101028342.bedpe
 
 
 track C91PL_chr1_57447644
@@ -275,7 +275,7 @@ shortLabel C91PL_chr1_57447644
 longLabel COSMIQ contacts at chr1:57447644
 type bedpe
 visibility full
-bigDataUrl C91PL_chr1_57447644.bedpe
+bigDataUrl hg38/C91PL_chr1_57447644.bedpe
 
 
 track C91PL_chr10_42521042
@@ -283,7 +283,7 @@ shortLabel C91PL_chr10_42521042
 longLabel COSMIQ contacts at chr10:42521042
 type bedpe
 visibility full
-bigDataUrl C91PL_chr10_42521042.bedpe
+bigDataUrl hg38/C91PL_chr10_42521042.bedpe
 
 
 track C91PL_chr11_5581108
@@ -291,7 +291,7 @@ shortLabel C91PL_chr11_5581108
 longLabel COSMIQ contacts at chr11:5581108
 type bedpe
 visibility full
-bigDataUrl C91PL_chr11_5581108.bedpe
+bigDataUrl hg38/C91PL_chr11_5581108.bedpe
 
 
 track C91PL_chr12_20480798
@@ -299,7 +299,7 @@ shortLabel C91PL_chr12_20480798
 longLabel COSMIQ contacts at chr12:20480798
 type bedpe
 visibility full
-bigDataUrl C91PL_chr12_20480798.bedpe
+bigDataUrl hg38/C91PL_chr12_20480798.bedpe
 
 
 track C91PL_chr13_41407482
@@ -307,7 +307,7 @@ shortLabel C91PL_chr13_41407482
 longLabel COSMIQ contacts at chr13:41407482
 type bedpe
 visibility full
-bigDataUrl C91PL_chr13_41407482.bedpe
+bigDataUrl hg38/C91PL_chr13_41407482.bedpe
 
 
 track C91PL_chr14_23450739
@@ -315,7 +315,7 @@ shortLabel C91PL_chr14_23450739
 longLabel COSMIQ contacts at chr14:23450739
 type bedpe
 visibility full
-bigDataUrl C91PL_chr14_23450739.bedpe
+bigDataUrl hg38/C91PL_chr14_23450739.bedpe
 
 
 track C91PL_chr14_55585767
@@ -323,7 +323,7 @@ shortLabel C91PL_chr14_55585767
 longLabel COSMIQ contacts at chr14:55585767
 type bedpe
 visibility full
-bigDataUrl C91PL_chr14_55585767.bedpe
+bigDataUrl hg38/C91PL_chr14_55585767.bedpe
 
 
 track C91PL_chr18_40275068
@@ -331,7 +331,7 @@ shortLabel C91PL_chr18_40275068
 longLabel COSMIQ contacts at chr18:40275068
 type bedpe
 visibility full
-bigDataUrl C91PL_chr18_40275068.bedpe
+bigDataUrl hg38/C91PL_chr18_40275068.bedpe
 
 
 track C91PL_chr20_31072066
@@ -339,7 +339,7 @@ shortLabel C91PL_chr20_31072066
 longLabel COSMIQ contacts at chr20:31072066
 type bedpe
 visibility full
-bigDataUrl C91PL_chr20_31072066.bedpe
+bigDataUrl hg38/C91PL_chr20_31072066.bedpe
 
 
 track C91PL_chr23_1500
@@ -347,7 +347,7 @@ shortLabel C91PL_chr23_1500
 longLabel COSMIQ contacts at chr23:1500
 type bedpe
 visibility full
-bigDataUrl C91PL_chr23_1500.bedpe
+bigDataUrl hg38/C91PL_chr23_1500.bedpe
 
 
 track C91PL_chr4_1901878
@@ -355,7 +355,7 @@ shortLabel C91PL_chr4_1901878
 longLabel COSMIQ contacts at chr4:1901878
 type bedpe
 visibility full
-bigDataUrl C91PL_chr4_1901878.bedpe
+bigDataUrl hg38/C91PL_chr4_1901878.bedpe
 
 
 track C91PL_chr4_49055093
@@ -363,7 +363,7 @@ shortLabel C91PL_chr4_49055093
 longLabel COSMIQ contacts at chr4:49055093
 type bedpe
 visibility full
-bigDataUrl C91PL_chr4_49055093.bedpe
+bigDataUrl hg38/C91PL_chr4_49055093.bedpe
 
 
 track C91PL_chr4_49065076
@@ -371,7 +371,7 @@ shortLabel C91PL_chr4_49065076
 longLabel COSMIQ contacts at chr4:49065076
 type bedpe
 visibility full
-bigDataUrl C91PL_chr4_49065076.bedpe
+bigDataUrl hg38/C91PL_chr4_49065076.bedpe
 
 
 track C91PL_chr4_49071280
@@ -379,7 +379,7 @@ shortLabel C91PL_chr4_49071280
 longLabel COSMIQ contacts at chr4:49071280
 type bedpe
 visibility full
-bigDataUrl C91PL_chr4_49071280.bedpe
+bigDataUrl hg38/C91PL_chr4_49071280.bedpe
 
 
 track C91PL_chr5_177945149
@@ -387,7 +387,7 @@ shortLabel C91PL_chr5_177945149
 longLabel COSMIQ contacts at chr5:177945149
 type bedpe
 visibility full
-bigDataUrl C91PL_chr5_177945149.bedpe
+bigDataUrl hg38/C91PL_chr5_177945149.bedpe
 
 
 track C91PL_chr5_49666588
@@ -395,7 +395,7 @@ shortLabel C91PL_chr5_49666588
 longLabel COSMIQ contacts at chr5:49666588
 type bedpe
 visibility full
-bigDataUrl C91PL_chr5_49666588.bedpe
+bigDataUrl hg38/C91PL_chr5_49666588.bedpe
 
 
 track C91PL_chr6_111775163
@@ -403,7 +403,7 @@ shortLabel C91PL_chr6_111775163
 longLabel COSMIQ contacts at chr6:111775163
 type bedpe
 visibility full
-bigDataUrl C91PL_chr6_111775163.bedpe
+bigDataUrl hg38/C91PL_chr6_111775163.bedpe
 
 
 track C91PL_chr6_393058
@@ -411,7 +411,7 @@ shortLabel C91PL_chr6_393058
 longLabel COSMIQ contacts at chr6:393058
 type bedpe
 visibility full
-bigDataUrl C91PL_chr6_393058.bedpe
+bigDataUrl hg38/C91PL_chr6_393058.bedpe
 
 
 track C91PL_chr6_46131686
@@ -419,7 +419,7 @@ shortLabel C91PL_chr6_46131686
 longLabel COSMIQ contacts at chr6:46131686
 type bedpe
 visibility full
-bigDataUrl C91PL_chr6_46131686.bedpe
+bigDataUrl hg38/C91PL_chr6_46131686.bedpe
 
 
 track C91PL_chr7_5059656
@@ -427,7 +427,7 @@ shortLabel C91PL_chr7_5059656
 longLabel COSMIQ contacts at chr7:5059656
 type bedpe
 visibility full
-bigDataUrl C91PL_chr7_5059656.bedpe
+bigDataUrl hg38/C91PL_chr7_5059656.bedpe
 
 
 track C91PL_chr8_127736666
@@ -435,7 +435,7 @@ shortLabel C91PL_chr8_127736666
 longLabel COSMIQ contacts at chr8:127736666
 type bedpe
 visibility full
-bigDataUrl C91PL_chr8_127736666.bedpe
+bigDataUrl hg38/C91PL_chr8_127736666.bedpe
 
 
 track C91PL_chr8_128694336
@@ -443,7 +443,7 @@ shortLabel C91PL_chr8_128694336
 longLabel COSMIQ contacts at chr8:128694336
 type bedpe
 visibility full
-bigDataUrl C91PL_chr8_128694336.bedpe
+bigDataUrl hg38/C91PL_chr8_128694336.bedpe
 
 
 track C91PL_chr9_131669662
@@ -451,7 +451,7 @@ shortLabel C91PL_chr9_131669662
 longLabel COSMIQ contacts at chr9:131669662
 type bedpe
 visibility full
-bigDataUrl C91PL_chr9_131669662.bedpe
+bigDataUrl hg38/C91PL_chr9_131669662.bedpe
 
 
 track C91PL_chrX_49058000
@@ -459,7 +459,7 @@ shortLabel C91PL_chrX_49058000
 longLabel COSMIQ contacts at chrX:49058000
 type bedpe
 visibility full
-bigDataUrl C91PL_chrX_49058000.bedpe
+bigDataUrl hg38/C91PL_chrX_49058000.bedpe
 
 
 track MT2_chr1_101028342
@@ -467,7 +467,7 @@ shortLabel MT2_chr1_101028342
 longLabel COSMIQ contacts at chr1:101028342
 type bedpe
 visibility full
-bigDataUrl MT2_chr1_101028342.bedpe
+bigDataUrl hg38/MT2_chr1_101028342.bedpe
 
 
 track MT2_chr1_57447644
@@ -475,7 +475,7 @@ shortLabel MT2_chr1_57447644
 longLabel COSMIQ contacts at chr1:57447644
 type bedpe
 visibility full
-bigDataUrl MT2_chr1_57447644.bedpe
+bigDataUrl hg38/MT2_chr1_57447644.bedpe
 
 
 track MT2_chr12_20480798
@@ -483,7 +483,7 @@ shortLabel MT2_chr12_20480798
 longLabel COSMIQ contacts at chr12:20480798
 type bedpe
 visibility full
-bigDataUrl MT2_chr12_20480798.bedpe
+bigDataUrl hg38/MT2_chr12_20480798.bedpe
 
 
 track MT2_chr13_41407482
@@ -491,7 +491,7 @@ shortLabel MT2_chr13_41407482
 longLabel COSMIQ contacts at chr13:41407482
 type bedpe
 visibility full
-bigDataUrl MT2_chr13_41407482.bedpe
+bigDataUrl hg38/MT2_chr13_41407482.bedpe
 
 
 track MT2_chr14_23450739
@@ -499,7 +499,7 @@ shortLabel MT2_chr14_23450739
 longLabel COSMIQ contacts at chr14:23450739
 type bedpe
 visibility full
-bigDataUrl MT2_chr14_23450739.bedpe
+bigDataUrl hg38/MT2_chr14_23450739.bedpe
 
 
 track MT2_chr14_55585767
@@ -507,7 +507,7 @@ shortLabel MT2_chr14_55585767
 longLabel COSMIQ contacts at chr14:55585767
 type bedpe
 visibility full
-bigDataUrl MT2_chr14_55585767.bedpe
+bigDataUrl hg38/MT2_chr14_55585767.bedpe
 
 
 track MT2_chr15_43031659
@@ -515,7 +515,7 @@ shortLabel MT2_chr15_43031659
 longLabel COSMIQ contacts at chr15:43031659
 type bedpe
 visibility full
-bigDataUrl MT2_chr15_43031659.bedpe
+bigDataUrl hg38/MT2_chr15_43031659.bedpe
 
 
 track MT2_chr19_33374951
@@ -523,7 +523,7 @@ shortLabel MT2_chr19_33374951
 longLabel COSMIQ contacts at chr19:33374951
 type bedpe
 visibility full
-bigDataUrl MT2_chr19_33374951.bedpe
+bigDataUrl hg38/MT2_chr19_33374951.bedpe
 
 
 track MT2_chr19_48985671
@@ -531,7 +531,7 @@ shortLabel MT2_chr19_48985671
 longLabel COSMIQ contacts at chr19:48985671
 type bedpe
 visibility full
-bigDataUrl MT2_chr19_48985671.bedpe
+bigDataUrl hg38/MT2_chr19_48985671.bedpe
 
 
 track MT2_chr2_147520339
@@ -539,7 +539,7 @@ shortLabel MT2_chr2_147520339
 longLabel COSMIQ contacts at chr2:147520339
 type bedpe
 visibility full
-bigDataUrl MT2_chr2_147520339.bedpe
+bigDataUrl hg38/MT2_chr2_147520339.bedpe
 
 
 track MT2_chr23_7725
@@ -547,7 +547,7 @@ shortLabel MT2_chr23_7725
 longLabel COSMIQ contacts at chr23:7725
 type bedpe
 visibility full
-bigDataUrl MT2_chr23_7725.bedpe
+bigDataUrl hg38/MT2_chr23_7725.bedpe
 
 
 track MT2_chr4_1901878
@@ -555,7 +555,7 @@ shortLabel MT2_chr4_1901878
 longLabel COSMIQ contacts at chr4:1901878
 type bedpe
 visibility full
-bigDataUrl MT2_chr4_1901878.bedpe
+bigDataUrl hg38/MT2_chr4_1901878.bedpe
 
 
 track MT2_chr4_49065076
@@ -563,7 +563,7 @@ shortLabel MT2_chr4_49065076
 longLabel COSMIQ contacts at chr4:49065076
 type bedpe
 visibility full
-bigDataUrl MT2_chr4_49065076.bedpe
+bigDataUrl hg38/MT2_chr4_49065076.bedpe
 
 
 track MT2_chr5_177945149
@@ -571,7 +571,7 @@ shortLabel MT2_chr5_177945149
 longLabel COSMIQ contacts at chr5:177945149
 type bedpe
 visibility full
-bigDataUrl MT2_chr5_177945149.bedpe
+bigDataUrl hg38/MT2_chr5_177945149.bedpe
 
 
 track MT2_chr5_33657683
@@ -579,7 +579,7 @@ shortLabel MT2_chr5_33657683
 longLabel COSMIQ contacts at chr5:33657683
 type bedpe
 visibility full
-bigDataUrl MT2_chr5_33657683.bedpe
+bigDataUrl hg38/MT2_chr5_33657683.bedpe
 
 
 track MT2_chr6_111775163
@@ -587,7 +587,7 @@ shortLabel MT2_chr6_111775163
 longLabel COSMIQ contacts at chr6:111775163
 type bedpe
 visibility full
-bigDataUrl MT2_chr6_111775163.bedpe
+bigDataUrl hg38/MT2_chr6_111775163.bedpe
 
 
 track MT2_chr6_134981807
@@ -595,7 +595,7 @@ shortLabel MT2_chr6_134981807
 longLabel COSMIQ contacts at chr6:134981807
 type bedpe
 visibility full
-bigDataUrl MT2_chr6_134981807.bedpe
+bigDataUrl hg38/MT2_chr6_134981807.bedpe
 
 
 track MT2_chr6_156855067
@@ -603,7 +603,7 @@ shortLabel MT2_chr6_156855067
 longLabel COSMIQ contacts at chr6:156855067
 type bedpe
 visibility full
-bigDataUrl MT2_chr6_156855067.bedpe
+bigDataUrl hg38/MT2_chr6_156855067.bedpe
 
 
 track MT2_chr6_393058
@@ -611,7 +611,7 @@ shortLabel MT2_chr6_393058
 longLabel COSMIQ contacts at chr6:393058
 type bedpe
 visibility full
-bigDataUrl MT2_chr6_393058.bedpe
+bigDataUrl hg38/MT2_chr6_393058.bedpe
 
 
 track MT2_chr7_103304361
@@ -619,7 +619,7 @@ shortLabel MT2_chr7_103304361
 longLabel COSMIQ contacts at chr7:103304361
 type bedpe
 visibility full
-bigDataUrl MT2_chr7_103304361.bedpe
+bigDataUrl hg38/MT2_chr7_103304361.bedpe
 
 
 track MT2_chr7_5059656
@@ -627,7 +627,7 @@ shortLabel MT2_chr7_5059656
 longLabel COSMIQ contacts at chr7:5059656
 type bedpe
 visibility full
-bigDataUrl MT2_chr7_5059656.bedpe
+bigDataUrl hg38/MT2_chr7_5059656.bedpe
 
 
 track MT2_chr8_128694336
@@ -635,7 +635,7 @@ shortLabel MT2_chr8_128694336
 longLabel COSMIQ contacts at chr8:128694336
 type bedpe
 visibility full
-bigDataUrl MT2_chr8_128694336.bedpe
+bigDataUrl hg38/MT2_chr8_128694336.bedpe
 
 
 track MT2_chr8_59058741
@@ -643,7 +643,7 @@ shortLabel MT2_chr8_59058741
 longLabel COSMIQ contacts at chr8:59058741
 type bedpe
 visibility full
-bigDataUrl MT2_chr8_59058741.bedpe
+bigDataUrl hg38/MT2_chr8_59058741.bedpe
 
 
 track MT2_chr9_131669662
@@ -651,7 +651,7 @@ shortLabel MT2_chr9_131669662
 longLabel COSMIQ contacts at chr9:131669662
 type bedpe
 visibility full
-bigDataUrl MT2_chr9_131669662.bedpe
+bigDataUrl hg38/MT2_chr9_131669662.bedpe
 
 
 track MT2_chr9_72360743
@@ -659,7 +659,7 @@ shortLabel MT2_chr9_72360743
 longLabel COSMIQ contacts at chr9:72360743
 type bedpe
 visibility full
-bigDataUrl MT2_chr9_72360743.bedpe
+bigDataUrl hg38/MT2_chr9_72360743.bedpe
 
 
 track MT2_chr9_85568169
@@ -667,7 +667,7 @@ shortLabel MT2_chr9_85568169
 longLabel COSMIQ contacts at chr9:85568169
 type bedpe
 visibility full
-bigDataUrl MT2_chr9_85568169.bedpe
+bigDataUrl hg38/MT2_chr9_85568169.bedpe
 
 
 track MT2_chrX_49058000
@@ -675,6 +675,6 @@ shortLabel MT2_chrX_49058000
 longLabel COSMIQ contacts at chrX:49058000
 type bedpe
 visibility full
-bigDataUrl MT2_chrX_49058000.bedpe
+bigDataUrl hg38/MT2_chrX_49058000.bedpe
 
 
