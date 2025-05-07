@@ -3,4 +3,3 @@ shortLabel COSMIQ contacts
 longLabel Contact arcs for HTLV/HIV integration sites (COSMIQ)
 genomesFile genomes.txt
 email franck.mortreux@ens-lyon.fr
-
