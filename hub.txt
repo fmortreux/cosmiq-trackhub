@@ -2,5 +2,5 @@ hub COSMIQHub
 shortLabel COSMIQ contacts
 longLabel Contact arcs for HTLV/HIV integration sites (COSMIQ)
 genomesFile genomes.txt
-email your.email@example.com
+email franck.mortreux@ens-lyon.fr
 
