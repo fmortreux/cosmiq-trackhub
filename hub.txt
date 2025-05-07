@@ -2,4 +2,5 @@ hub COSMIQHub
 shortLabel COSMIQ contacts
 longLabel Contact arcs for HTLV/HIV integration sites (COSMIQ)
 genomesFile genomes.txt
+descriptionUrl hub_description.html
 email franck.mortreux@ens-lyon.fr

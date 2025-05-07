@@ -1,1 +1,3 @@
-track type=interact name="MT2_int_chr13" description="Cis contacts for MT2 at int:chr13" useScore=on visibility=3
+version https://git-lfs.github.com/spec/v1
+oid sha256:70bb6ca6f1fee77cb61478e2eca097232a79d6bef27ed43f1a73502e99e7186c
+size 114

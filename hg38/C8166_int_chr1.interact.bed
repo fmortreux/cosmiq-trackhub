@@ -1,1 +1,3 @@
-track type=interact name="C8166_int_chr1" description="Cis contacts for C8166 at int:chr1" useScore=on visibility=3
+version https://git-lfs.github.com/spec/v1
+oid sha256:17f95db7f0179cebee0e7363c6fddad4b86402283b09fabff39cc636c3cb8e9a
+size 116

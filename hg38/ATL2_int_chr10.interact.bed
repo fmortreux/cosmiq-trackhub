@@ -1,1 +1,3 @@
-track type=interact name="ATL2_int_chr10" description="Cis contacts for ATL2 at int:chr10" useScore=on visibility=3
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d80bac87c0c7072d5c8196fbfe7a3f1700570bc83e52d88d5b6e73193ce5e30
+size 116

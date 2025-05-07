@@ -1,1 +1,3 @@
-track type=interact name="C91PL_int_chr4" description="Cis contacts for C91PL at int:chr4" useScore=on visibility=3
+version https://git-lfs.github.com/spec/v1
+oid sha256:47deb7d26c52dcf8c2f53ab9ad697dec9f51f1ebc764ff80c4eeb7b7ff637492
+size 116
