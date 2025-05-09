@@ -1,680 +1,574 @@
 track C91PL_int_chr1_101028342
 type bigInteract
-name C91PL_int_chr1_101028342
-description "Cis contacts for C91PL at chr1:101028342"
+shortLabel C91PL chr1:101028342
+longLabel Cis contacts for C91PL at chr1:101028342
+bigDataUrl C91PL_int_chr1_101028342.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr1_101028342.interact.bb
-
 track C91PL_int_chr1_57447644
 type bigInteract
-name C91PL_int_chr1_57447644
-description "Cis contacts for C91PL at chr1:57447644"
+shortLabel C91PL chr1:57447644
+longLabel Cis contacts for C91PL at chr1:57447644
+bigDataUrl C91PL_int_chr1_57447644.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr1_57447644.interact.bb
-
 track C91PL_int_chr10_42521042
 type bigInteract
-name C91PL_int_chr10_42521042
-description "Cis contacts for C91PL at chr10:42521042"
+shortLabel C91PL chr10:42521042
+longLabel Cis contacts for C91PL at chr10:42521042
+bigDataUrl C91PL_int_chr10_42521042.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr10_42521042.interact.bb
-
 track C91PL_int_chr11_5581108
 type bigInteract
-name C91PL_int_chr11_5581108
-description "Cis contacts for C91PL at chr11:5581108"
+shortLabel C91PL chr11:5581108
+longLabel Cis contacts for C91PL at chr11:5581108
+bigDataUrl C91PL_int_chr11_5581108.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr11_5581108.interact.bb
-
 track C91PL_int_chr12_20480798
 type bigInteract
-name C91PL_int_chr12_20480798
-description "Cis contacts for C91PL at chr12:20480798"
+shortLabel C91PL chr12:20480798
+longLabel Cis contacts for C91PL at chr12:20480798
+bigDataUrl C91PL_int_chr12_20480798.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr12_20480798.interact.bb
-
 track C91PL_int_chr13_41407482
 type bigInteract
-name C91PL_int_chr13_41407482
-description "Cis contacts for C91PL at chr13:41407482"
+shortLabel C91PL chr13:41407482
+longLabel Cis contacts for C91PL at chr13:41407482
+bigDataUrl C91PL_int_chr13_41407482.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr13_41407482.interact.bb
-
 track C91PL_int_chr14_23450739
 type bigInteract
-name C91PL_int_chr14_23450739
-description "Cis contacts for C91PL at chr14:23450739"
+shortLabel C91PL chr14:23450739
+longLabel Cis contacts for C91PL at chr14:23450739
+bigDataUrl C91PL_int_chr14_23450739.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr14_23450739.interact.bb
-
 track C91PL_int_chr14_55585767
 type bigInteract
-name C91PL_int_chr14_55585767
-description "Cis contacts for C91PL at chr14:55585767"
+shortLabel C91PL chr14:55585767
+longLabel Cis contacts for C91PL at chr14:55585767
+bigDataUrl C91PL_int_chr14_55585767.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr14_55585767.interact.bb
-
 track C91PL_int_chr18_40275068
 type bigInteract
-name C91PL_int_chr18_40275068
-description "Cis contacts for C91PL at chr18:40275068"
+shortLabel C91PL chr18:40275068
+longLabel Cis contacts for C91PL at chr18:40275068
+bigDataUrl C91PL_int_chr18_40275068.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr18_40275068.interact.bb
-
 track C91PL_int_chr20_31072066
 type bigInteract
-name C91PL_int_chr20_31072066
-description "Cis contacts for C91PL at chr20:31072066"
+shortLabel C91PL chr20:31072066
+longLabel Cis contacts for C91PL at chr20:31072066
+bigDataUrl C91PL_int_chr20_31072066.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr20_31072066.interact.bb
-
 track C91PL_int_chr23_1500
 type bigInteract
-name C91PL_int_chr23_1500
-description "Cis contacts for C91PL at chr23:1500"
+shortLabel C91PL chr23:1500
+longLabel Cis contacts for C91PL at chr23:1500
+bigDataUrl C91PL_int_chr23_1500.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr23_1500.interact.bb
-
 track C91PL_int_chr4_1901878
 type bigInteract
-name C91PL_int_chr4_1901878
-description "Cis contacts for C91PL at chr4:1901878"
+shortLabel C91PL chr4:1901878
+longLabel Cis contacts for C91PL at chr4:1901878
+bigDataUrl C91PL_int_chr4_1901878.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr4_1901878.interact.bb
-
 track C91PL_int_chr4_49055093
 type bigInteract
-name C91PL_int_chr4_49055093
-description "Cis contacts for C91PL at chr4:49055093"
+shortLabel C91PL chr4:49055093
+longLabel Cis contacts for C91PL at chr4:49055093
+bigDataUrl C91PL_int_chr4_49055093.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr4_49055093.interact.bb
-
 track C91PL_int_chr4_49065076
 type bigInteract
-name C91PL_int_chr4_49065076
-description "Cis contacts for C91PL at chr4:49065076"
+shortLabel C91PL chr4:49065076
+longLabel Cis contacts for C91PL at chr4:49065076
+bigDataUrl C91PL_int_chr4_49065076.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr4_49065076.interact.bb
-
 track C91PL_int_chr4_49071280
 type bigInteract
-name C91PL_int_chr4_49071280
-description "Cis contacts for C91PL at chr4:49071280"
+shortLabel C91PL chr4:49071280
+longLabel Cis contacts for C91PL at chr4:49071280
+bigDataUrl C91PL_int_chr4_49071280.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr4_49071280.interact.bb
-
 track C91PL_int_chr5_177945149
 type bigInteract
-name C91PL_int_chr5_177945149
-description "Cis contacts for C91PL at chr5:177945149"
+shortLabel C91PL chr5:177945149
+longLabel Cis contacts for C91PL at chr5:177945149
+bigDataUrl C91PL_int_chr5_177945149.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr5_177945149.interact.bb
-
 track C91PL_int_chr5_49666588
 type bigInteract
-name C91PL_int_chr5_49666588
-description "Cis contacts for C91PL at chr5:49666588"
+shortLabel C91PL chr5:49666588
+longLabel Cis contacts for C91PL at chr5:49666588
+bigDataUrl C91PL_int_chr5_49666588.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr5_49666588.interact.bb
-
 track C91PL_int_chr6_111775163
 type bigInteract
-name C91PL_int_chr6_111775163
-description "Cis contacts for C91PL at chr6:111775163"
+shortLabel C91PL chr6:111775163
+longLabel Cis contacts for C91PL at chr6:111775163
+bigDataUrl C91PL_int_chr6_111775163.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr6_111775163.interact.bb
-
 track C91PL_int_chr6_393058
 type bigInteract
-name C91PL_int_chr6_393058
-description "Cis contacts for C91PL at chr6:393058"
+shortLabel C91PL chr6:393058
+longLabel Cis contacts for C91PL at chr6:393058
+bigDataUrl C91PL_int_chr6_393058.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr6_393058.interact.bb
-
 track C91PL_int_chr6_46131686
 type bigInteract
-name C91PL_int_chr6_46131686
-description "Cis contacts for C91PL at chr6:46131686"
-useScore on
-visibility 3
+shortLabel C91PL chr6:46131686
+longLabel Cis contacts for C91PL at chr6:46131686
 bigDataUrl C91PL_int_chr6_46131686.interact.bb
-
-track C91PL_int_chr7_5059656
-type bigInteract
-name C91PL_int_chr7_5059656
-description "Cis contacts for C91PL at chr7:5059656"
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr7_5059656.interact.bb
-
 track C91PL_int_chr8_127736666
 type bigInteract
-name C91PL_int_chr8_127736666
-description "Cis contacts for C91PL at chr8:127736666"
+shortLabel C91PL chr8:127736666
+longLabel Cis contacts for C91PL at chr8:127736666
+bigDataUrl C91PL_int_chr8_127736666.interact.bb
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr8_127736666.interact.bb
-
 track C91PL_int_chr8_128694336
 type bigInteract
-name C91PL_int_chr8_128694336
-description "Cis contacts for C91PL at chr8:128694336"
-useScore on
-visibility 3
+shortLabel C91PL chr8:128694336
+longLabel Cis contacts for C91PL at chr8:128694336
 bigDataUrl C91PL_int_chr8_128694336.interact.bb
-
-track C91PL_int_chr9_131669662
-type bigInteract
-name C91PL_int_chr9_131669662
-description "Cis contacts for C91PL at chr9:131669662"
 useScore on
 visibility 3
-bigDataUrl C91PL_int_chr9_131669662.interact.bb
-
-track C91PL_int_chrX_49058000
-type bigInteract
-name C91PL_int_chrX_49058000
-description "Cis contacts for C91PL at chrX:49058000"
-useScore on
-visibility 3
-bigDataUrl C91PL_int_chrX_49058000.interact.bb
-
 track ATL2_int_chr1_124921396
 type bigInteract
-name ATL2_int_chr1_124921396
-description "Cis contacts for ATL2 at chr1:124921396"
+shortLabel ATL2 chr1:124921396
+longLabel Cis contacts for ATL2 at chr1:124921396
+bigDataUrl ATL2_int_chr1_124921396.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr1_124921396.interact.bb
-
 track ATL2_int_chr10_100346150
 type bigInteract
-name ATL2_int_chr10_100346150
-description "Cis contacts for ATL2 at chr10:100346150"
+shortLabel ATL2 chr10:100346150
+longLabel Cis contacts for ATL2 at chr10:100346150
+bigDataUrl ATL2_int_chr10_100346150.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr10_100346150.interact.bb
-
 track ATL2_int_chr10_19697454
 type bigInteract
-name ATL2_int_chr10_19697454
-description "Cis contacts for ATL2 at chr10:19697454"
+shortLabel ATL2 chr10:19697454
+longLabel Cis contacts for ATL2 at chr10:19697454
+bigDataUrl ATL2_int_chr10_19697454.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr10_19697454.interact.bb
-
 track ATL2_int_chr11_120299509
 type bigInteract
-name ATL2_int_chr11_120299509
-description "Cis contacts for ATL2 at chr11:120299509"
+shortLabel ATL2 chr11:120299509
+longLabel Cis contacts for ATL2 at chr11:120299509
+bigDataUrl ATL2_int_chr11_120299509.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr11_120299509.interact.bb
-
 track ATL2_int_chr16_6402151
 type bigInteract
-name ATL2_int_chr16_6402151
-description "Cis contacts for ATL2 at chr16:6402151"
+shortLabel ATL2 chr16:6402151
+longLabel Cis contacts for ATL2 at chr16:6402151
+bigDataUrl ATL2_int_chr16_6402151.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr16_6402151.interact.bb
-
 track ATL2_int_chr16_73059100
 type bigInteract
-name ATL2_int_chr16_73059100
-description "Cis contacts for ATL2 at chr16:73059100"
+shortLabel ATL2 chr16:73059100
+longLabel Cis contacts for ATL2 at chr16:73059100
+bigDataUrl ATL2_int_chr16_73059100.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr16_73059100.interact.bb
-
 track ATL2_int_chr19_23516284
 type bigInteract
-name ATL2_int_chr19_23516284
-description "Cis contacts for ATL2 at chr19:23516284"
+shortLabel ATL2 chr19:23516284
+longLabel Cis contacts for ATL2 at chr19:23516284
+bigDataUrl ATL2_int_chr19_23516284.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr19_23516284.interact.bb
-
 track ATL2_int_chr2_143643727
 type bigInteract
-name ATL2_int_chr2_143643727
-description "Cis contacts for ATL2 at chr2:143643727"
+shortLabel ATL2 chr2:143643727
+longLabel Cis contacts for ATL2 at chr2:143643727
+bigDataUrl ATL2_int_chr2_143643727.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr2_143643727.interact.bb
-
 track ATL2_int_chr2_197058271
 type bigInteract
-name ATL2_int_chr2_197058271
-description "Cis contacts for ATL2 at chr2:197058271"
+shortLabel ATL2 chr2:197058271
+longLabel Cis contacts for ATL2 at chr2:197058271
+bigDataUrl ATL2_int_chr2_197058271.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr2_197058271.interact.bb
-
 track ATL2_int_chr22_10727513
 type bigInteract
-name ATL2_int_chr22_10727513
-description "Cis contacts for ATL2 at chr22:10727513"
+shortLabel ATL2 chr22:10727513
+longLabel Cis contacts for ATL2 at chr22:10727513
+bigDataUrl ATL2_int_chr22_10727513.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr22_10727513.interact.bb
-
 track ATL2_int_chr23_7755
 type bigInteract
-name ATL2_int_chr23_7755
-description "Cis contacts for ATL2 at chr23:7755"
+shortLabel ATL2 chr23:7755
+longLabel Cis contacts for ATL2 at chr23:7755
+bigDataUrl ATL2_int_chr23_7755.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr23_7755.interact.bb
-
 track ATL2_int_chr3_156668867
 type bigInteract
-name ATL2_int_chr3_156668867
-description "Cis contacts for ATL2 at chr3:156668867"
+shortLabel ATL2 chr3:156668867
+longLabel Cis contacts for ATL2 at chr3:156668867
+bigDataUrl ATL2_int_chr3_156668867.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr3_156668867.interact.bb
-
 track ATL2_int_chr3_60170826
 type bigInteract
-name ATL2_int_chr3_60170826
-description "Cis contacts for ATL2 at chr3:60170826"
+shortLabel ATL2 chr3:60170826
+longLabel Cis contacts for ATL2 at chr3:60170826
+bigDataUrl ATL2_int_chr3_60170826.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr3_60170826.interact.bb
-
 track ATL2_int_chr3_72400158
 type bigInteract
-name ATL2_int_chr3_72400158
-description "Cis contacts for ATL2 at chr3:72400158"
+shortLabel ATL2 chr3:72400158
+longLabel Cis contacts for ATL2 at chr3:72400158
+bigDataUrl ATL2_int_chr3_72400158.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr3_72400158.interact.bb
-
 track ATL2_int_chr6_115871882
 type bigInteract
-name ATL2_int_chr6_115871882
-description "Cis contacts for ATL2 at chr6:115871882"
+shortLabel ATL2 chr6:115871882
+longLabel Cis contacts for ATL2 at chr6:115871882
+bigDataUrl ATL2_int_chr6_115871882.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr6_115871882.interact.bb
-
 track ATL2_int_chr6_1677784
 type bigInteract
-name ATL2_int_chr6_1677784
-description "Cis contacts for ATL2 at chr6:1677784"
+shortLabel ATL2 chr6:1677784
+longLabel Cis contacts for ATL2 at chr6:1677784
+bigDataUrl ATL2_int_chr6_1677784.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr6_1677784.interact.bb
-
 track ATL2_int_chr6_36596223
 type bigInteract
-name ATL2_int_chr6_36596223
-description "Cis contacts for ATL2 at chr6:36596223"
+shortLabel ATL2 chr6:36596223
+longLabel Cis contacts for ATL2 at chr6:36596223
+bigDataUrl ATL2_int_chr6_36596223.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr6_36596223.interact.bb
-
 track ATL2_int_chr7_100571114
 type bigInteract
-name ATL2_int_chr7_100571114
-description "Cis contacts for ATL2 at chr7:100571114"
+shortLabel ATL2 chr7:100571114
+longLabel Cis contacts for ATL2 at chr7:100571114
+bigDataUrl ATL2_int_chr7_100571114.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr7_100571114.interact.bb
-
 track ATL2_int_chr7_110286357
 type bigInteract
-name ATL2_int_chr7_110286357
-description "Cis contacts for ATL2 at chr7:110286357"
+shortLabel ATL2 chr7:110286357
+longLabel Cis contacts for ATL2 at chr7:110286357
+bigDataUrl ATL2_int_chr7_110286357.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr7_110286357.interact.bb
-
 track ATL2_int_chr8_33376775
 type bigInteract
-name ATL2_int_chr8_33376775
-description "Cis contacts for ATL2 at chr8:33376775"
+shortLabel ATL2 chr8:33376775
+longLabel Cis contacts for ATL2 at chr8:33376775
+bigDataUrl ATL2_int_chr8_33376775.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr8_33376775.interact.bb
-
 track ATL2_int_chr9_111102031
 type bigInteract
-name ATL2_int_chr9_111102031
-description "Cis contacts for ATL2 at chr9:111102031"
+shortLabel ATL2 chr9:111102031
+longLabel Cis contacts for ATL2 at chr9:111102031
+bigDataUrl ATL2_int_chr9_111102031.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr9_111102031.interact.bb
-
 track ATL2_int_chr9_84758149
 type bigInteract
-name ATL2_int_chr9_84758149
-description "Cis contacts for ATL2 at chr9:84758149"
+shortLabel ATL2 chr9:84758149
+longLabel Cis contacts for ATL2 at chr9:84758149
+bigDataUrl ATL2_int_chr9_84758149.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chr9_84758149.interact.bb
-
 track ATL2_int_chrX_38810094
 type bigInteract
-name ATL2_int_chrX_38810094
-description "Cis contacts for ATL2 at chrX:38810094"
+shortLabel ATL2 chrX:38810094
+longLabel Cis contacts for ATL2 at chrX:38810094
+bigDataUrl ATL2_int_chrX_38810094.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chrX_38810094.interact.bb
-
 track ATL2_int_chrX_71119588
 type bigInteract
-name ATL2_int_chrX_71119588
-description "Cis contacts for ATL2 at chrX:71119588"
+shortLabel ATL2 chrX:71119588
+longLabel Cis contacts for ATL2 at chrX:71119588
+bigDataUrl ATL2_int_chrX_71119588.interact.bb
 useScore on
 visibility 3
-bigDataUrl ATL2_int_chrX_71119588.interact.bb
-
 track C8166_int_chr1_186586318
 type bigInteract
-name C8166_int_chr1_186586318
-description "Cis contacts for C8166 at chr1:186586318"
+shortLabel C8166 chr1:186586318
+longLabel Cis contacts for C8166 at chr1:186586318
+bigDataUrl C8166_int_chr1_186586318.interact.bb
 useScore on
 visibility 3
-bigDataUrl C8166_int_chr1_186586318.interact.bb
-
 track C8166_int_chr12_124455829
 type bigInteract
-name C8166_int_chr12_124455829
-description "Cis contacts for C8166 at chr12:124455829"
+shortLabel C8166 chr12:124455829
+longLabel Cis contacts for C8166 at chr12:124455829
+bigDataUrl C8166_int_chr12_124455829.interact.bb
 useScore on
 visibility 3
-bigDataUrl C8166_int_chr12_124455829.interact.bb
-
 track C8166_int_chr16_82567561
 type bigInteract
-name C8166_int_chr16_82567561
-description "Cis contacts for C8166 at chr16:82567561"
+shortLabel C8166 chr16:82567561
+longLabel Cis contacts for C8166 at chr16:82567561
+bigDataUrl C8166_int_chr16_82567561.interact.bb
 useScore on
 visibility 3
-bigDataUrl C8166_int_chr16_82567561.interact.bb
-
 track C8166_int_chr2_71358903
 type bigInteract
-name C8166_int_chr2_71358903
-description "Cis contacts for C8166 at chr2:71358903"
+shortLabel C8166 chr2:71358903
+longLabel Cis contacts for C8166 at chr2:71358903
+bigDataUrl C8166_int_chr2_71358903.interact.bb
 useScore on
 visibility 3
-bigDataUrl C8166_int_chr2_71358903.interact.bb
-
 track C8166_int_chr3_71461442
 type bigInteract
-name C8166_int_chr3_71461442
-description "Cis contacts for C8166 at chr3:71461442"
+shortLabel C8166 chr3:71461442
+longLabel Cis contacts for C8166 at chr3:71461442
+bigDataUrl C8166_int_chr3_71461442.interact.bb
 useScore on
 visibility 3
-bigDataUrl C8166_int_chr3_71461442.interact.bb
-
 track C8166_int_chr6_389477
 type bigInteract
-name C8166_int_chr6_389477
-description "Cis contacts for C8166 at chr6:389477"
+shortLabel C8166 chr6:389477
+longLabel Cis contacts for C8166 at chr6:389477
+bigDataUrl C8166_int_chr6_389477.interact.bb
 useScore on
 visibility 3
-bigDataUrl C8166_int_chr6_389477.interact.bb
-
 track C8166_int_chr6_390031
 type bigInteract
-name C8166_int_chr6_390031
-description "Cis contacts for C8166 at chr6:390031"
+shortLabel C8166 chr6:390031
+longLabel Cis contacts for C8166 at chr6:390031
+bigDataUrl C8166_int_chr6_390031.interact.bb
 useScore on
 visibility 3
-bigDataUrl C8166_int_chr6_390031.interact.bb
-
 track C8166_int_chr7_34962522
 type bigInteract
-name C8166_int_chr7_34962522
-description "Cis contacts for C8166 at chr7:34962522"
+shortLabel C8166 chr7:34962522
+longLabel Cis contacts for C8166 at chr7:34962522
+bigDataUrl C8166_int_chr7_34962522.interact.bb
 useScore on
 visibility 3
-bigDataUrl C8166_int_chr7_34962522.interact.bb
-
 track C8166_int_chr9_77295064
 type bigInteract
-name C8166_int_chr9_77295064
-description "Cis contacts for C8166 at chr9:77295064"
+shortLabel C8166 chr9:77295064
+longLabel Cis contacts for C8166 at chr9:77295064
+bigDataUrl C8166_int_chr9_77295064.interact.bb
 useScore on
 visibility 3
-bigDataUrl C8166_int_chr9_77295064.interact.bb
-
 track MT2_int_chr1_101028342
 type bigInteract
-name MT2_int_chr1_101028342
-description "Cis contacts for MT2 at chr1:101028342"
+shortLabel MT2 chr1:101028342
+longLabel Cis contacts for MT2 at chr1:101028342
+bigDataUrl MT2_int_chr1_101028342.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr1_101028342.interact.bb
-
 track MT2_int_chr1_57447644
 type bigInteract
-name MT2_int_chr1_57447644
-description "Cis contacts for MT2 at chr1:57447644"
+shortLabel MT2 chr1:57447644
+longLabel Cis contacts for MT2 at chr1:57447644
+bigDataUrl MT2_int_chr1_57447644.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr1_57447644.interact.bb
-
 track MT2_int_chr12_20480798
 type bigInteract
-name MT2_int_chr12_20480798
-description "Cis contacts for MT2 at chr12:20480798"
+shortLabel MT2 chr12:20480798
+longLabel Cis contacts for MT2 at chr12:20480798
+bigDataUrl MT2_int_chr12_20480798.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr12_20480798.interact.bb
-
 track MT2_int_chr13_41407482
 type bigInteract
-name MT2_int_chr13_41407482
-description "Cis contacts for MT2 at chr13:41407482"
+shortLabel MT2 chr13:41407482
+longLabel Cis contacts for MT2 at chr13:41407482
+bigDataUrl MT2_int_chr13_41407482.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr13_41407482.interact.bb
-
 track MT2_int_chr14_23450739
 type bigInteract
-name MT2_int_chr14_23450739
-description "Cis contacts for MT2 at chr14:23450739"
+shortLabel MT2 chr14:23450739
+longLabel Cis contacts for MT2 at chr14:23450739
+bigDataUrl MT2_int_chr14_23450739.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr14_23450739.interact.bb
-
 track MT2_int_chr14_55585767
 type bigInteract
-name MT2_int_chr14_55585767
-description "Cis contacts for MT2 at chr14:55585767"
+shortLabel MT2 chr14:55585767
+longLabel Cis contacts for MT2 at chr14:55585767
+bigDataUrl MT2_int_chr14_55585767.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr14_55585767.interact.bb
-
 track MT2_int_chr15_43031659
 type bigInteract
-name MT2_int_chr15_43031659
-description "Cis contacts for MT2 at chr15:43031659"
+shortLabel MT2 chr15:43031659
+longLabel Cis contacts for MT2 at chr15:43031659
+bigDataUrl MT2_int_chr15_43031659.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr15_43031659.interact.bb
-
 track MT2_int_chr19_33374951
 type bigInteract
-name MT2_int_chr19_33374951
-description "Cis contacts for MT2 at chr19:33374951"
+shortLabel MT2 chr19:33374951
+longLabel Cis contacts for MT2 at chr19:33374951
+bigDataUrl MT2_int_chr19_33374951.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr19_33374951.interact.bb
-
 track MT2_int_chr19_48985671
 type bigInteract
-name MT2_int_chr19_48985671
-description "Cis contacts for MT2 at chr19:48985671"
+shortLabel MT2 chr19:48985671
+longLabel Cis contacts for MT2 at chr19:48985671
+bigDataUrl MT2_int_chr19_48985671.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr19_48985671.interact.bb
-
 track MT2_int_chr2_147520339
 type bigInteract
-name MT2_int_chr2_147520339
-description "Cis contacts for MT2 at chr2:147520339"
+shortLabel MT2 chr2:147520339
+longLabel Cis contacts for MT2 at chr2:147520339
+bigDataUrl MT2_int_chr2_147520339.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr2_147520339.interact.bb
-
 track MT2_int_chr23_7725
 type bigInteract
-name MT2_int_chr23_7725
-description "Cis contacts for MT2 at chr23:7725"
+shortLabel MT2 chr23:7725
+longLabel Cis contacts for MT2 at chr23:7725
+bigDataUrl MT2_int_chr23_7725.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr23_7725.interact.bb
-
 track MT2_int_chr4_1901878
 type bigInteract
-name MT2_int_chr4_1901878
-description "Cis contacts for MT2 at chr4:1901878"
+shortLabel MT2 chr4:1901878
+longLabel Cis contacts for MT2 at chr4:1901878
+bigDataUrl MT2_int_chr4_1901878.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr4_1901878.interact.bb
-
 track MT2_int_chr4_49065076
 type bigInteract
-name MT2_int_chr4_49065076
-description "Cis contacts for MT2 at chr4:49065076"
+shortLabel MT2 chr4:49065076
+longLabel Cis contacts for MT2 at chr4:49065076
+bigDataUrl MT2_int_chr4_49065076.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr4_49065076.interact.bb
-
 track MT2_int_chr5_177945149
 type bigInteract
-name MT2_int_chr5_177945149
-description "Cis contacts for MT2 at chr5:177945149"
+shortLabel MT2 chr5:177945149
+longLabel Cis contacts for MT2 at chr5:177945149
+bigDataUrl MT2_int_chr5_177945149.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr5_177945149.interact.bb
-
 track MT2_int_chr5_33657683
 type bigInteract
-name MT2_int_chr5_33657683
-description "Cis contacts for MT2 at chr5:33657683"
+shortLabel MT2 chr5:33657683
+longLabel Cis contacts for MT2 at chr5:33657683
+bigDataUrl MT2_int_chr5_33657683.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr5_33657683.interact.bb
-
 track MT2_int_chr6_111775163
 type bigInteract
-name MT2_int_chr6_111775163
-description "Cis contacts for MT2 at chr6:111775163"
+shortLabel MT2 chr6:111775163
+longLabel Cis contacts for MT2 at chr6:111775163
+bigDataUrl MT2_int_chr6_111775163.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr6_111775163.interact.bb
-
 track MT2_int_chr6_134981807
 type bigInteract
-name MT2_int_chr6_134981807
-description "Cis contacts for MT2 at chr6:134981807"
+shortLabel MT2 chr6:134981807
+longLabel Cis contacts for MT2 at chr6:134981807
+bigDataUrl MT2_int_chr6_134981807.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr6_134981807.interact.bb
-
 track MT2_int_chr6_156855067
 type bigInteract
-name MT2_int_chr6_156855067
-description "Cis contacts for MT2 at chr6:156855067"
+shortLabel MT2 chr6:156855067
+longLabel Cis contacts for MT2 at chr6:156855067
+bigDataUrl MT2_int_chr6_156855067.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr6_156855067.interact.bb
-
 track MT2_int_chr6_393058
 type bigInteract
-name MT2_int_chr6_393058
-description "Cis contacts for MT2 at chr6:393058"
+shortLabel MT2 chr6:393058
+longLabel Cis contacts for MT2 at chr6:393058
+bigDataUrl MT2_int_chr6_393058.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr6_393058.interact.bb
-
 track MT2_int_chr7_103304361
 type bigInteract
-name MT2_int_chr7_103304361
-description "Cis contacts for MT2 at chr7:103304361"
+shortLabel MT2 chr7:103304361
+longLabel Cis contacts for MT2 at chr7:103304361
+bigDataUrl MT2_int_chr7_103304361.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr7_103304361.interact.bb
-
 track MT2_int_chr7_5059656
 type bigInteract
-name MT2_int_chr7_5059656
-description "Cis contacts for MT2 at chr7:5059656"
+shortLabel MT2 chr7:5059656
+longLabel Cis contacts for MT2 at chr7:5059656
+bigDataUrl MT2_int_chr7_5059656.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr7_5059656.interact.bb
-
 track MT2_int_chr8_128694336
 type bigInteract
-name MT2_int_chr8_128694336
-description "Cis contacts for MT2 at chr8:128694336"
+shortLabel MT2 chr8:128694336
+longLabel Cis contacts for MT2 at chr8:128694336
+bigDataUrl MT2_int_chr8_128694336.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr8_128694336.interact.bb
-
 track MT2_int_chr8_59058741
 type bigInteract
-name MT2_int_chr8_59058741
-description "Cis contacts for MT2 at chr8:59058741"
+shortLabel MT2 chr8:59058741
+longLabel Cis contacts for MT2 at chr8:59058741
+bigDataUrl MT2_int_chr8_59058741.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr8_59058741.interact.bb
-
 track MT2_int_chr9_131669662
 type bigInteract
-name MT2_int_chr9_131669662
-description "Cis contacts for MT2 at chr9:131669662"
+shortLabel MT2 chr9:131669662
+longLabel Cis contacts for MT2 at chr9:131669662
+bigDataUrl MT2_int_chr9_131669662.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr9_131669662.interact.bb
-
 track MT2_int_chr9_72360743
 type bigInteract
-name MT2_int_chr9_72360743
-description "Cis contacts for MT2 at chr9:72360743"
+shortLabel MT2 chr9:72360743
+longLabel Cis contacts for MT2 at chr9:72360743
+bigDataUrl MT2_int_chr9_72360743.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr9_72360743.interact.bb
-
 track MT2_int_chr9_85568169
 type bigInteract
-name MT2_int_chr9_85568169
-description "Cis contacts for MT2 at chr9:85568169"
+shortLabel MT2 chr9:85568169
+longLabel Cis contacts for MT2 at chr9:85568169
+bigDataUrl MT2_int_chr9_85568169.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chr9_85568169.interact.bb
-
 track MT2_int_chrX_49058000
 type bigInteract
-name MT2_int_chrX_49058000
-description "Cis contacts for MT2 at chrX:49058000"
+shortLabel MT2 chrX:49058000
+longLabel Cis contacts for MT2 at chrX:49058000
+bigDataUrl MT2_int_chrX_49058000.interact.bb
 useScore on
 visibility 3
-bigDataUrl MT2_int_chrX_49058000.interact.bb
-
