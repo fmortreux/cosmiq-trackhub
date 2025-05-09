@@ -1,2 +1,0 @@
-*.interact.bed filter=lfs diff=lfs merge=lfs -text
-*.bb filter=lfs diff=lfs merge=lfs -text
